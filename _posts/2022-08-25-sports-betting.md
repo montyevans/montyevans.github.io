@@ -46,10 +46,10 @@ It was, obviously, a scam.
 Promoses of free money, large upfront cash requirements and enthusiastic support from internet strangers, all orchestrated by an industry with millenia of expertise separating customers from their wallets.
 I wandered over to [Reddit](https://www.reddit.com/r/sportsbook/comments/s1st0a/allinclusive_summary_of_caesars_3k_bonus_from/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) to confirm my suspicions, but instead found
 such community stalwarts as _u/Lmpbzkt_ gleefully explaining how they'd turned a $3000 profit in a couple of hours.
-My mental projection of "active Redditor" and "experienced sports bettor" intersection looked something like Peaky Blinders' Thomas Shelby, with worse hair and much better Wifi.
+My mental projection of "active Redditor" and "experienced sports bettor" intersection looked something like Peaky Blinders' Thomas Shelby, with worse hair and better Wifi.
 The kind of shadowy digital spirit that got banned from after-school computer club for hustling fish dollars in Club Penguin's less reputable igloos.
 
-In reality, these people are not too different from the first-year analysts (in fact, I suspect many are the same people): overly online, and posessed of a profound aesthetic appreciation for financial finesse.
+In reality, these people are not too different from the first-year analysts (I suspect many are the same people): overly online, and posessed of a profound aesthetic appreciation for financial finesse.
 The comments section abounded with strategies for combining wagers to minimize risk, pro-con analyses of different promo codes, reports of account freezes and strategies for getting around them. People posted their planned bets,
 and within minutes received detailed feedback correcting their maths, offering alternatives and cheering encouragement.
 
@@ -57,11 +57,11 @@ It was deeply, unexpectedly wholesome. These people weren't scammers. They didn'
 
 ## Beginning to Believe
 
-I believed this could work; my only reservation was that I'd screw it up.
+It sounded like this could, in theory, work; my main reservation was that I'd screw it up.
 I scoured the Terms & Conditions on the promotion site with the same keen eyes that nailed the SAT Reading section and can reread sentences for minutes without noticing.
 I wished I'd made friends with more future lawyers; I rewatched the Suits pilot.
 
-I would later discover, when evangelizing to friends, that this is by far the hardest part. Understanding the rules, the gambling terminology, and the best strategies takes half an hour.
+I would later discover, when evangelizing to friends that this is by far the hardest part. Understanding the rules, the gambling terminology, and the best strategies takes half an hour.
 Researching corroborating accounts, figuring out how and where you're actually going to place the bets: another hour.
 But overcoming the long-established association of "Gambling" with "Bad, Sleazy, Fast-Track to Alcoholism and Losing My Life Savings" alongside the fear of losing a chunk of money is _really difficult_.
 
@@ -82,6 +82,7 @@ Housemate Charlie, however, clicked all the right links and verified all the rig
 
 Among all the promotions from all the gambling companies, the "Deposit Match" is the most straightforward: you make a deposit, and the site with throw in a bonus, up to some cap. Crucially, this bonus comes with a **playthrough requirement** attached. To understand playthrough requirements (sometimes called rollover requirements), you have to understand that bonus money, however golden and large the dollar sign preceding it, is not real.
 You cannot withdraw it, you _cannot bet_ with it, you cannot do this with it.
+
 ![Scrooge McDuck](/images/scrooge-mcduck.jpeg)
 
 Bonus money becomes real when you make bets (with your real deposited money, since you _can't_ bet bonus money), at a rate determined by the playthrough requirement.
