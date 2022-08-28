@@ -298,7 +298,7 @@ Feel free to dial the underdog odds down slightly for a better chance at a small
 
 ![](https://i.insider.com/52327275eab8ea1f40966708?width=600&format=jpeg&auto=webp)
 
-(Chris McCandless, after hitchhiking across the Midwest to acquire every sign-up bonus in America)
+_(Chris McCandless, after hitchhiking across the Midwest to acquire every sign-up bonus in America)_
 
 Once you understand the rules, the jargon, and have chosen your strategy, the last and highest hurdle is to work up the energy and head a-hunting. Promotions rotate, state regulations change, new companies acquire licenses. "Best Sports Betting Promos" returns **pages** of lists. [Some sites](https://www.betonline.ag/) are unbelievable, both in the sense of offering massive sign-up bonuses, and in requiring all deposits to be made in crypto to their Albanian headquarters: these I leave to braver prospectors.
 
