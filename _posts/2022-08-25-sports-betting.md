@@ -249,7 +249,7 @@ By abandoning even-money bets, we have created an extra $194 of expected value! 
 
 We can remove this risk the same way we did before (by pairing off with friends) but this time half the bets are on favourites, and so are _probably going to win_. These bets get comparatively little extra firepower from being "risk-free bets", so _don't waste the promotion on them_. You or a teammate can take the favourite bet from a different sportsbook - perhaps one where you have a deposit match, or already used your promotion.
 
-Hungry for ERDs, and armed with this outline, there are a few dials you can turn: the number of paired-off bets you make, your risk-premium, and the odds you select for the underdog in both your initial bet and your token bet (these need not be the same). That's a lot to keep track of, so we'll have to abandon flowcharts in favour of a Jupyter notebook, which walks you through tuning each of these parameters to maximize your ERD harvest.
+Hungry for ERDs, and armed with this outline, there are a few dials you can turn: the number of paired-off bets you make, your risk-premium, and the odds you select for the underdog in both your initial bet and your token bet (these need not be the same). That's a lot to keep track of, so we'll have to abandon flowcharts in favour of a [Jupyter notebook](https://colab.research.google.com/github/montyevans/montyevans.github.io/blob/master/notebooks/betting.ipynb#scrollTo=2UJdTlovLtVV), which lets you tune each of these parameters to maximize your ERD harvest.
 
 | Example charts below, with explanations |
 
