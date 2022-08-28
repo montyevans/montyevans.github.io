@@ -245,6 +245,8 @@ Alone, these symmetries are just interesting; combine them, and a symphony of op
 
 By abandoning even-money bets, we have created an extra $194 of expected value! The flip side: it's now more likely that we'll lose _both_ bets (25% -> 44%), so we're still in negative ERD territory.
 
+TODO - FIX THIS
+
 ![](/images/unbalanced-risk-averse.png)
 
 We can remove this risk the same way we did before (by pairing off with friends) but this time half the bets are on favourites, and so are _probably going to win_. These bets get comparatively little extra firepower from being "risk-free bets", so _don't waste the promotion on them_. You or a teammate can take the favourite bet from a different sportsbook - perhaps one where you have a deposit match, or already used your promotion.
