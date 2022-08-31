@@ -4,6 +4,8 @@ published: True
 title: How I Paid My Tuition Betting on Basketball... Without Knowing the Rules
 ---
 
+<script src="https://cdn.plot.ly/plotly-2.14.0.min.js"></script>
+
 It started, like the Bill of Rights would backwards, with the Tenth Amendment.
 
 Specifically, with the Supreme Court's 2018 determination that a 1992 federal law outlawing sports betting was unconstitutional.
