@@ -255,6 +255,8 @@ Hungry for ERDs, and armed with this outline, there are a few dials you can turn
 
 | Example charts below, with explanations |
 
+<div id="01041b6b-4b32-4e07-afa4-4de49fea5ddc" class="plotly-graph-div" style="height:700px; width:600px;"></div><script type="text/javascript" src="/js/chart1.min.js"> </script></div>
+
 Solo, no risk-aversion (give payouts)
 Solo, normal risk-aversion (give payouts)
 Solo, risk-aversion = 100 (i.e. zero chance of loss) (give payouts)
